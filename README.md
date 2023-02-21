@@ -8,4 +8,4 @@
 
 3. [SQL](https://github.com/Shubham-Choudhury/Learning_SQL/blob/main/3%20SQL.md)
 
-4. [MySQL DDL Commands](https://github.com/Shubham-Choudhury/Learning_SQL/blob/main/3%20MySQL%20DDL%20commands.md)
+4. [MySQL DDL Commands](https://github.com/Shubham-Choudhury/Learning_SQL/blob/main/4%20MySQL%20DDL%20commands.md)
